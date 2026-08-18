@@ -3,9 +3,9 @@
     "id": "stretchy-braid",
     "name": "Stretchy Braid",
     "price": "$2.50",
-    "category": "bracelets",
+    "category": "clips",
     "image": "images/stretchy-braid.jpg",
-    "desc": "A rainbow braided stretch bracelet finished with a heart charm and playful tassel.",
+    "desc": "A rainbow braided stretch clip finished with a heart charm and playful tassel.",
     "featured": true
   },
   {
@@ -18,11 +18,11 @@
     "featured": true
   },
   {
-    "id": "pearl-hairpiece",
-    "name": "Pearl Hairpiece",
+    "id": "pearl-frenchhairpin",
+    "name": "Pearl French Hairpin",
     "price": "$1.00",
-    "category": "hairpieces",
-    "image": "images/pearl-hairpiece.jpg",
+    "category": "french hair pins",
+    "image": "images/pearl-frenchhairpin.jpg",
     "desc": "A dainty strand of pearls finished with polished silver ends.",
     "featured": true
   },
@@ -42,7 +42,7 @@
     "category": "clips",
     "image": "images/rainbow-woven-clip.jpg",
     "desc": "A snap clip wrapped in rainbow woven cord with a sparkly pink gem accent.",
-    "featured": true
+    "featured": false
   },
   {
     "id": "flower-clip",
@@ -51,7 +51,7 @@
     "category": "clips",
     "image": "images/dh-flower-clip.jpg",
     "desc": "A snap clip topped with clear crystal flowers, green accent beads, and 'D' and 'H' initial beads.",
-    "featured": true
+    "featured": false
   },
   {
     "id": "wooden-flower-clip",
@@ -59,7 +59,16 @@
     "price": "$2.00",
     "category": "clips",
     "image": "images/wooden-flower-clip.jpg",
-    "desc": "A pair of clips wrapped in tan wood-tone beads and finished with an orange enamel flower.",
+    "desc": "A pair of clips wrapped in orange and yellow wood beads, each finished with a matching enamel flower.",
+    "featured": false
+  },
+  {
+    "id": "tan-disc-flower-clip",
+    "name": "Tan Disc Flower Clip",
+    "price": "$2.00",
+    "category": "clips",
+    "image": "images/tan-disc-flower-clip.jpg",
+    "desc": "A snap clip wrapped in tan disc beads and finished with an orange enamel flower.",
     "featured": false
   },
   {
