@@ -1,0 +1,29 @@
+[
+  {
+    "id": "lego-clip",
+    "name": "LEGO Clip",
+    "price": "$2.00",
+    "category": "clips",
+    "image": "images/PXL_20260818_035321183.jpg",
+    "desc": "A lego hair clip with detatchable pieces.",
+    "featured": true
+  },
+  {
+    "id": "rainbow-clip",
+    "name": "Rainbow Clip",
+    "price": "$0.50",
+    "category": "clips",
+    "image": "images/PXL_20260818_035308676.jpg",
+    "desc": "A rainbow clip with a sparkly plastic pink gem.",
+    "featured": true
+  },
+  {
+    "id": "flower-clip",
+    "name": "Flower Clip",
+    "price": "$1.00",
+    "category": "clips",
+    "image": "images/PXL_20260818_035315635.jpg",
+    "desc": "Show off your fandom by getting this cute flower clip.",
+    "featured": true
+  }
+]
