@@ -1,32 +1,5 @@
 [
   {
-    "id": "stretchy-braid",
-    "name": "Stretchy Braid",
-    "price": "$2.50",
-    "category": "clips",
-    "image": "images/stretchy-braid.jpg",
-    "desc": "A rainbow braided stretch clip finished with a heart charm and playful tassel.",
-    "featured": true
-  },
-  {
-    "id": "dangle-clip",
-    "name": "Dangle Clip",
-    "price": "$1.00",
-    "category": "clips",
-    "image": "images/dangle-clip.jpg",
-    "desc": "A sparkling snap clip topped with a delicate flower and faceted gem dangle.",
-    "featured": true
-  },
-  {
-    "id": "pearl-frenchhairpin",
-    "name": "Pearl French Hairpin",
-    "price": "$1.00",
-    "category": "french hair pins",
-    "image": "images/pearl-frenchhairpin.jpg",
-    "desc": "A dainty strand of pearls finished with polished silver ends.",
-    "featured": true
-  },
-  {
     "id": "lego-clip",
     "name": "LEGO Clip",
     "price": "$2.00",
@@ -42,7 +15,7 @@
     "category": "clips",
     "image": "images/rainbow-woven-clip.jpg",
     "desc": "A snap clip wrapped in rainbow woven cord with a sparkly pink gem accent.",
-    "featured": false
+    "featured": true
   },
   {
     "id": "flower-clip",
@@ -51,7 +24,7 @@
     "category": "clips",
     "image": "images/dh-flower-clip.jpg",
     "desc": "A snap clip topped with clear crystal flowers, green accent beads, and 'D' and 'H' initial beads.",
-    "featured": false
+    "featured": true
   },
   {
     "id": "wooden-flower-clip",
