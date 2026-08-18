@@ -32,7 +32,7 @@
     "price": "$2.00",
     "category": "clips",
     "image": "images/wooden-flower-clip.jpg",
-    "desc": "A pair of clips wrapped in orange and yellow wood beads, each finished with a matching enamel flower.",
+    "desc": "A pair of clips topped with orange and yellow wood beads, each finished with a matching enamel flower.",
     "featured": false
   },
   {
@@ -68,7 +68,7 @@
     "price": "$1.20",
     "category": "clips",
     "image": "images/crystal-clover-clip.jpg",
-    "desc": "A clip with clear crystal flowers and a cluster of green faceted beads.",
+    "desc": "A clip with a clear crystal flower and a stem made of green faceted beads.",
     "featured": false
   },
   {
@@ -100,11 +100,11 @@
   },
   {
     "id": "mint-gold-trim-clip",
-    "name": "Mint & Gold Trim Clip",
+    "name": "Mint Green Woven Clip",
     "price": "$2.00",
     "category": "clips",
     "image": "images/mint-gold-trim-clip.jpg",
-    "desc": "A pair of clips wrapped in mint green woven trim with metallic gold thread.",
+    "desc": "A pair of clips wrapped in mint green woven thread.",
     "featured": false
   },
   {
@@ -113,7 +113,7 @@
     "price": "$1.00",
     "category": "clips",
     "image": "images/crab-charm-clip.jpg",
-    "desc": "A clip strung with pink wood beads and a smiling crab charm.",
+    "desc": "A clip with pink wood beads and a smiling crab charm.",
     "featured": false
   },
   {
@@ -145,11 +145,11 @@
   },
   {
     "id": "cherry-bead-clip",
-    "name": "Cherry Bead Clip",
+    "name": "Cherry Braid Clip",
     "price": "$2.00",
     "category": "clips",
     "image": "images/cherry-bead-clip.jpg",
-    "desc": "A clip strung with iridescent metallic beads, a neon cherry charm, and a braided cord tassel.",
+    "desc": "A clip with iridescent metallic beads, a neon cherry charm, and a braided cord tassel.",
     "featured": false
   },
   {
