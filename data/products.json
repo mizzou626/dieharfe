@@ -1,29 +1,56 @@
 [
   {
+    "id": "stretchy-braid",
+    "name": "Stretchy Braid",
+    "price": "$2.50",
+    "category": "bracelets",
+    "image": "images/stretchy-braid.jpg",
+    "desc": "A rainbow braided stretch bracelet finished with a heart charm and playful tassel.",
+    "featured": true
+  },
+  {
+    "id": "dangle-clip",
+    "name": "Dangle Clip",
+    "price": "$1.00",
+    "category": "clips",
+    "image": "images/dangle-clip.jpg",
+    "desc": "A sparkling snap clip topped with a delicate flower and faceted gem dangle.",
+    "featured": true
+  },
+  {
+    "id": "pearl-hairpiece",
+    "name": "Pearl Hairpiece",
+    "price": "$1.00",
+    "category": "hairpieces",
+    "image": "images/pearl-hairpiece.jpg",
+    "desc": "A dainty strand of pearls finished with polished silver ends.",
+    "featured": true
+  },
+  {
     "id": "lego-clip",
     "name": "LEGO Clip",
     "price": "$2.00",
     "category": "clips",
-    "image": "images/PXL_20260818_035321183.jpg",
-    "desc": "A lego hair clip with detatchable pieces.",
+    "image": "images/lego-clip.jpg",
+    "desc": "A Die Harfe x LEGO collab clip made from an official blue LEGO brick topped with two round studs.",
     "featured": true
   },
   {
     "id": "rainbow-clip",
-    "name": "Rainbow Clip",
+    "name": "Rainbow Woven Clip",
     "price": "$0.50",
     "category": "clips",
-    "image": "images/PXL_20260818_035308676.jpg",
-    "desc": "A rainbow clip with a sparkly plastic pink gem.",
+    "image": "images/rainbow-woven-clip.jpg",
+    "desc": "A snap clip wrapped in rainbow woven cord with a sparkly pink gem accent.",
     "featured": true
   },
   {
     "id": "flower-clip",
-    "name": "Flower Clip",
+    "name": "DH Flower Clip",
     "price": "$1.00",
     "category": "clips",
-    "image": "images/PXL_20260818_035315635.jpg",
-    "desc": "Show off your fandom by getting this cute flower clip.",
+    "image": "images/dh-flower-clip.jpg",
+    "desc": "A snap clip topped with clear crystal flowers, green accent beads, and 'D' and 'H' initial beads.",
     "featured": true
   },
   {
@@ -31,8 +58,134 @@
     "name": "Wooden Flower Clip",
     "price": "$2.00",
     "category": "clips",
-    "image": "images/PXL_20260818_045508303.jpg",
-    "desc": "Two cute wooden flower clips.",
+    "image": "images/wooden-flower-clip.jpg",
+    "desc": "A pair of clips wrapped in tan wood-tone beads and finished with an orange enamel flower.",
+    "featured": false
+  },
+  {
+    "id": "gem-dangle-clip",
+    "name": "Gem & Flower Dangle Clip",
+    "price": "$1.00",
+    "category": "clips",
+    "image": "images/gem-dangle-clip.jpg",
+    "desc": "A snap clip lined with sparkling gems and a purple enamel flower, finished with a beaded dangle.",
+    "featured": false
+  },
+  {
+    "id": "blue-daisy-clip",
+    "name": "Blue Daisy Clip",
+    "price": "$2.00",
+    "category": "clips",
+    "image": "images/blue-daisy-clip.jpg",
+    "desc": "A snap clip topped with four enamel daisies in shades of blue.",
+    "featured": false
+  },
+  {
+    "id": "crystal-clover-clip",
+    "name": "Crystal & Clover Clip",
+    "price": "$1.20",
+    "category": "clips",
+    "image": "images/crystal-clover-clip.jpg",
+    "desc": "A snap clip with clear crystal flowers and a cluster of green faceted beads.",
+    "featured": false
+  },
+  {
+    "id": "star-wand-clip",
+    "name": "Star Wand Clip",
+    "price": "$1.00",
+    "category": "clips",
+    "image": "images/star-wand-clip.jpg",
+    "desc": "A snap clip finished with purple wood beads and a sparkling star charm.",
+    "featured": false
+  },
+  {
+    "id": "crochet-lace-clip",
+    "name": "Crochet Lace Clip",
+    "price": "$3.00",
+    "category": "clips",
+    "image": "images/crochet-lace-clip.jpg",
+    "desc": "A pair of snap clips wrapped in light blue crochet lace with a metallic gold trim.",
+    "featured": false
+  },
+  {
+    "id": "blue-yellow-daisy-clip",
+    "name": "Blue & Yellow Daisy Clip",
+    "price": "$2.00",
+    "category": "clips",
+    "image": "images/blue-yellow-daisy-clip.jpg",
+    "desc": "A snap clip topped with a row of blue and yellow enamel daisies.",
+    "featured": false
+  },
+  {
+    "id": "mint-gold-trim-clip",
+    "name": "Mint & Gold Trim Clip",
+    "price": "$2.00",
+    "category": "clips",
+    "image": "images/mint-gold-trim-clip.jpg",
+    "desc": "A pair of snap clips wrapped in mint green woven trim with metallic gold thread.",
+    "featured": false
+  },
+  {
+    "id": "crab-charm-clip",
+    "name": "Crab Charm Clip",
+    "price": "$1.00",
+    "category": "clips",
+    "image": "images/crab-charm-clip.jpg",
+    "desc": "A snap clip strung with pink wood beads and a smiling crab charm.",
+    "featured": false
+  },
+  {
+    "id": "lego-plate-clip",
+    "name": "LEGO Plate Clip",
+    "price": "$4.00",
+    "category": "clips",
+    "image": "images/lego-plate-clip.jpg",
+    "desc": "A pair of Die Harfe x LEGO clips made from green LEGO plates topped with pink flower studs.",
+    "featured": false
+  },
+  {
+    "id": "prism-flower-clip",
+    "name": "Prism Flower Clip",
+    "price": "$0.50",
+    "category": "clips",
+    "image": "images/prism-flower-clip.jpg",
+    "desc": "A snap clip with orange, yellow, and green faceted beads and a blue enamel flower charm.",
+    "featured": false
+  },
+  {
+    "id": "pink-glitter-clip",
+    "name": "Pink Glitter Clip",
+    "price": "$2.00",
+    "category": "clips",
+    "image": "images/pink-glitter-clip.jpg",
+    "desc": "A pair of snap clips wrapped in sparkly iridescent pink glitter ribbon.",
+    "featured": false
+  },
+  {
+    "id": "cherry-bead-clip",
+    "name": "Cherry Bead Clip",
+    "price": "$2.00",
+    "category": "clips",
+    "image": "images/cherry-bead-clip.jpg",
+    "desc": "A snap clip strung with iridescent metallic beads, a neon cherry charm, and a braided cord tassel.",
+    "featured": false
+  },
+  {
+    "id": "ribbon-bow-clip",
+    "name": "Ribbon Bow Clip",
+    "price": "$1.00",
+    "category": "clips",
+    "image": "images/ribbon-bow-clip.jpg",
+    "desc": "A woven clip topped with a hand-tied pink ribbon bow.",
+    "featured": false
+  },
+  {
+    "id": "dot-ricrac-clip",
+    "name": "Dot Ric-Rac Clip",
+    "price": "$0.50",
+    "category": "clips",
+    "image": "images/dot-ricrac-clip.jpg",
+    "desc": "A wavy ric-rac clip in a cheerful pink, blue, and yellow polka dot print.",
     "featured": false
   }
 ]
