@@ -25,5 +25,14 @@
     "image": "images/PXL_20260818_035315635.jpg",
     "desc": "Show off your fandom by getting this cute flower clip.",
     "featured": true
+  },
+  {
+    "id": "wooden-flower-clip",
+    "name": "Wooden Flower Clip",
+    "price": "$2.00",
+    "category": "clips",
+    "image": "images/PXL_20260818_045508303.jpg",
+    "desc": "Two cute wooden flower clips.",
+    "featured": false
   }
 ]
