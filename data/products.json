@@ -14,7 +14,7 @@
     "price": "$0.50",
     "category": "clips",
     "image": "images/rainbow-woven-clip.jpg",
-    "desc": "A snap clip wrapped in rainbow woven cord with a sparkly pink gem accent.",
+    "desc": "A clip wrapped in rainbow woven cord with a sparkly pink gem accent.",
     "featured": true
   },
   {
@@ -23,7 +23,7 @@
     "price": "$1.00",
     "category": "clips",
     "image": "images/dh-flower-clip.jpg",
-    "desc": "A snap clip topped with clear crystal flowers, green accent beads, and 'D' and 'H' initial beads.",
+    "desc": "A clip topped with clear crystal flowers, green accent beads, and 'D' and 'H' initial beads.",
     "featured": true
   },
   {
@@ -41,7 +41,7 @@
     "price": "$2.00",
     "category": "clips",
     "image": "images/tan-disc-flower-clip.jpg",
-    "desc": "A snap clip wrapped in tan disc beads and finished with an orange enamel flower.",
+    "desc": "A clip wrapped in tan disc beads and finished with an orange enamel flower.",
     "featured": false
   },
   {
@@ -50,7 +50,7 @@
     "price": "$1.00",
     "category": "clips",
     "image": "images/gem-dangle-clip.jpg",
-    "desc": "A snap clip lined with sparkling gems and a purple enamel flower, finished with a beaded dangle.",
+    "desc": "A clip lined with sparkling gems and a purple enamel flower, finished with a beaded dangle.",
     "featured": false
   },
   {
@@ -59,7 +59,7 @@
     "price": "$2.00",
     "category": "clips",
     "image": "images/blue-daisy-clip.jpg",
-    "desc": "A snap clip topped with four enamel daisies in shades of blue.",
+    "desc": "A clip topped with four enamel daisies in shades of blue.",
     "featured": false
   },
   {
@@ -68,7 +68,7 @@
     "price": "$1.20",
     "category": "clips",
     "image": "images/crystal-clover-clip.jpg",
-    "desc": "A snap clip with clear crystal flowers and a cluster of green faceted beads.",
+    "desc": "A clip with clear crystal flowers and a cluster of green faceted beads.",
     "featured": false
   },
   {
@@ -77,7 +77,7 @@
     "price": "$1.00",
     "category": "clips",
     "image": "images/star-wand-clip.jpg",
-    "desc": "A snap clip finished with purple wood beads and a sparkling star charm.",
+    "desc": "A clip finished with purple wood beads and a sparkling star charm.",
     "featured": false
   },
   {
@@ -86,7 +86,7 @@
     "price": "$3.00",
     "category": "clips",
     "image": "images/crochet-lace-clip.jpg",
-    "desc": "A pair of snap clips wrapped in light blue crochet lace with a metallic gold trim.",
+    "desc": "A pair of clips wrapped in light blue crochet lace with a metallic gold trim.",
     "featured": false
   },
   {
@@ -95,7 +95,7 @@
     "price": "$2.00",
     "category": "clips",
     "image": "images/blue-yellow-daisy-clip.jpg",
-    "desc": "A snap clip topped with a row of blue and yellow enamel daisies.",
+    "desc": "A clip topped with a row of blue and yellow enamel daisies.",
     "featured": false
   },
   {
@@ -104,7 +104,7 @@
     "price": "$2.00",
     "category": "clips",
     "image": "images/mint-gold-trim-clip.jpg",
-    "desc": "A pair of snap clips wrapped in mint green woven trim with metallic gold thread.",
+    "desc": "A pair of clips wrapped in mint green woven trim with metallic gold thread.",
     "featured": false
   },
   {
@@ -113,7 +113,7 @@
     "price": "$1.00",
     "category": "clips",
     "image": "images/crab-charm-clip.jpg",
-    "desc": "A snap clip strung with pink wood beads and a smiling crab charm.",
+    "desc": "A clip strung with pink wood beads and a smiling crab charm.",
     "featured": false
   },
   {
@@ -131,7 +131,7 @@
     "price": "$0.50",
     "category": "clips",
     "image": "images/prism-flower-clip.jpg",
-    "desc": "A snap clip with orange, yellow, and green faceted beads and a blue enamel flower charm.",
+    "desc": "A clip with orange, yellow, and green faceted beads and a blue enamel flower charm.",
     "featured": false
   },
   {
@@ -140,7 +140,7 @@
     "price": "$2.00",
     "category": "clips",
     "image": "images/pink-glitter-clip.jpg",
-    "desc": "A pair of snap clips wrapped in sparkly iridescent pink glitter ribbon.",
+    "desc": "A pair of clips wrapped in sparkly iridescent pink glitter ribbon.",
     "featured": false
   },
   {
@@ -149,7 +149,7 @@
     "price": "$2.00",
     "category": "clips",
     "image": "images/cherry-bead-clip.jpg",
-    "desc": "A snap clip strung with iridescent metallic beads, a neon cherry charm, and a braided cord tassel.",
+    "desc": "A clip strung with iridescent metallic beads, a neon cherry charm, and a braided cord tassel.",
     "featured": false
   },
   {
